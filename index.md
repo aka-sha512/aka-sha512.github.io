@@ -1,3 +1,4 @@
+# Akashic Software Profile
 Introducing Akasha Carver, a youth working to shake infrastructure and secure a tomorrow...
 
 As a child, he dreamed of making everyone happy. This passion evolved professionally from his youth through volunteering in academia and building tools designed to genuinely reach and impact people. Keen on technical information, he pursued and launched his career in medical IT and continues on this path today, developing software for doctors, healthcare workers, clinicians, and the general public alike.
