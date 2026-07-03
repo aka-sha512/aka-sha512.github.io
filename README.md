@@ -9,3 +9,5 @@ Despite being forsaken early on by an education system meant to nurture young ta
 In school he was always a student leader, in the community, always a outgoing volunteer.
 
 Within the formal education system, he earned a bachelor’s degree in computer science and mathematics with a focus on data science. He also took courses at Cornell University and neuroscience at the University of Pennsylvania. His unrelenting drive to understand and create powerful systems remains unmatched, and the velocity with which he can generate progress in any direction allows him to circumvent systemic barriers entirely.
+
+Entering entreprenurship not just out of potential but because revenue can be used as a means to mitigate the poor fates of good people.
